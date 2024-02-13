@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la cd basics/boot
+ls -la echo "/boot"
