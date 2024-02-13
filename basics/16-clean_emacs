@@ -1,2 +1,2 @@
 #!/bin/bash
-find . "*.~"
+rm /tmp/test_emacs/*~
