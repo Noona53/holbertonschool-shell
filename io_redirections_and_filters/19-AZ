@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Aca | tr Ac Ze
+echo "Abcdefghijklmnopqrstuvwxyz" | tr "Ac" "Ze"
